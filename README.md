@@ -1,7 +1,7 @@
 
 
 # RRCGAN：A Radiometric Resolution Compression Method for Optical Remote Sensing Images Using Contrastive Learning
-![新建 Microsoft PowerPoint 演示文稿](https://github.com/ZzzTD/RRCGAN/assets/58813118/87198939-a577-4f82-9b85-e4c61c8b73d7)
+![新建 Microsoft PowerPoint 演示文稿 (1)](https://github.com/ZzzTD/RRCGAN/assets/58813118/2c84a58f-a55a-414f-8b44-9d2ce5424b5f)
 ## Prerequisites
 - Linux or macOS
 - Python 3
