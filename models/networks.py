@@ -1514,7 +1514,7 @@ class pdfam_gau_module1(torch.nn.Module):
         learn_eps_limit = self.act(self.learn_eps)
         learn_coef_limit = self.act(self.learn_coef)
 
-        return (learn_eps_limit + gau_pdf * learn_coef_limit + 1)
+        return (learn_eps_limit + gau_pdf * learn_coef_limit)
 
 class pdfam_gau_module2(torch.nn.Module):
     def __init__(self, channels=1):
@@ -1534,7 +1534,7 @@ class pdfam_gau_module2(torch.nn.Module):
         gau_pdf = (-x_minus_mu_square / (2 * sigma_square) * learn_width_limit).exp() / (2 * pi * sigma_square).sqrt()
         learn_eps_limit = self.act(self.learn_eps)
         learn_coef_limit = self.act(self.learn_coef)
-        return (learn_eps_limit + gau_pdf * learn_coef_limit + 1)
+        return (learn_eps_limit + gau_pdf * learn_coef_limit)
 
 from timm.models.layers import DropPath, to_2tuple, trunc_normal_
 
