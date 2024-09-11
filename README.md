@@ -2,9 +2,6 @@
 
 # RRCGAN：A Radiometric Resolution Compression Method for Optical Remote Sensing Images Using Contrastive Learning
 ![rrcgan](https://github.com/user-attachments/assets/01f0172e-bd1b-4264-b171-d31805916eed)
-![rrcgan](https://github.com/user-attachments/assets/01f0172e-bd1b-4264-b171-d31805916eed)
-![Uploading rrcgan.gif…]()
-![Uploading rrcgan.gif…]()
 
 ## Prerequisites
 - Linux or macOS
