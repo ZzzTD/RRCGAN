@@ -11,6 +11,7 @@
 ### Update log
 
 5/5/2024: Added related codes.
+12/24/2024 :Added GF2 dataset.
 
 ### RRCGAN Train and Test
 
