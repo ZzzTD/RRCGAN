@@ -25,7 +25,7 @@ python test.py --dataroot XXX --name XXX
 ```
 
 ### Datesets
-All the data mentioned in the article has been uploaded to Baidu Cloud, link is:https://pan.baidu.com/s/1C45OYUsjJ4kO7GIkqCQSOQ(r64k) 
+All the data mentioned in the article, eg. JL1,GF7,GF2, has been uploaded to Baidu Cloud, link is: https://pan.baidu.com/s/1VOeaoqv50KVqbpiXJs5WwQ(thkn) 
 
 ### Acknowledgments
 Our code is developed based on [contrastive-unpaired-translation](https://github.com/taesungp/contrastive-unpaired-translation) and [Hneg_SRC
