@@ -26,7 +26,9 @@ python test.py --dataroot XXX --name XXX
 ```
 
 ### Datesets
-All the data mentioned in the article, eg. JL1,GF7,GF2, has been uploaded to Baidu Cloud, link is: https://pan.baidu.com/s/1VOeaoqv50KVqbpiXJs5WwQ(thkn) 
+All the data mentioned in the article, eg. JL1,GF7,GF2, has been uploaded to Baidu Cloud, link is: https://pan.baidu.com/s/1VOeaoqv50KVqbpiXJs5WwQ(thkn) .The dataset example is as follows:
+![新建 Microsoft Visio Drawing](https://github.com/user-attachments/assets/02afc97c-3fe2-49b3-b6f2-0577334d6873)
+
 
 ### Acknowledgments
 Our code is developed based on [contrastive-unpaired-translation](https://github.com/taesungp/contrastive-unpaired-translation) and [Hneg_SRC
