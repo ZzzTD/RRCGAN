@@ -12,7 +12,7 @@
 
 - 5/5/2024: Added related codes.
 - 12/24/2024: Added GF2 dataset.
-
+- 02/03/2025: Update dataset.
 ### RRCGAN Train and Test
 
 - Train the RRCGAN model:
@@ -26,7 +26,7 @@ python test.py --dataroot XXX --name XXX
 ```
 
 ### Datesets
-All the data mentioned in the article, eg. JL1,GF7,GF2, has been uploaded to Baidu Cloud, link is: https://pan.baidu.com/s/1VOeaoqv50KVqbpiXJs5WwQ(thkn) .The dataset example is as follows:
+All the data mentioned in the article, eg. JL1,GF7,GF2, has been uploaded to Baidu Cloud, link is: (https://pan.baidu.com/s/1eNE-5UvD4df62ehgllwYsA)(mhiy) .The dataset example is as follows:
 ![新建 Microsoft Visio Drawing](https://github.com/user-attachments/assets/02afc97c-3fe2-49b3-b6f2-0577334d6873)
 
 
