@@ -28,8 +28,19 @@ python test.py --dataroot XXX --name XXX
 ### Datesets
 All the data mentioned in the article, eg. JL1,GF7,GF2, has been uploaded to Baidu Cloud, link is: (https://pan.baidu.com/s/1eNE-5UvD4df62ehgllwYsA)(mhiy) .The dataset example is as follows:
 ![新建 Microsoft Visio Drawing](https://github.com/user-attachments/assets/02afc97c-3fe2-49b3-b6f2-0577334d6873)
-
+@article{liang2021swinir,
+  title={SwinIR: Image Restoration Using Swin Transformer},
+  author={Liang, Jingyun and Cao, Jiezhang and Sun, Guolei and Zhang, Kai and Van Gool, Luc and Timofte, Radu},
+  journal={arXiv preprint arXiv:2108.10257},
+  year={2021}
+}
 
 ### Acknowledgments
 Our code is developed based on [contrastive-unpaired-translation](https://github.com/taesungp/contrastive-unpaired-translation) and [Hneg_SRC
 ](https://github.com/jcy132/Hneg_SRC). We also thank [pytorch-fid](https://github.com/mseitzer/pytorch-fid) for FID computation.
+
+## Citation
+```bash
+Zhang T, Dai J, Cheng J, et al. RRCGAN: Unsupervised Compression of Radiometric Resolution of Remote Sensing Images Using Contrastive Learning[J].
+ IEEE Transactions on Geoscience and Remote Sensing, 2025.
+```
