@@ -41,6 +41,10 @@ Our code is developed based on [contrastive-unpaired-translation](https://github
 
 ## Citation
 ```bash
-Zhang T, Dai J, Cheng J, et al. RRCGAN: Unsupervised Compression of Radiometric Resolution of Remote Sensing Images Using Contrastive Learning[J].
- IEEE Transactions on Geoscience and Remote Sensing, 2025.
+@article{Zhang2025RRCGAN,
+  title={RRCGAN: Unsupervised Compression of Radiometric Resolution of Remote Sensing Images Using Contrastive Learning},
+  author={Tengda Zhang; Jiguang Dai; Jinsong Cheng; Hongzhou Li; Ruishan Zhao; Bing Zhang},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2025}
+}.
 ```
